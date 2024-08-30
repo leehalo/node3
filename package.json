@@ -1,0 +1,16 @@
+{
+  "name": "node3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Letícia Almeida de Oliveira",
+  "license": "MIT",
+  "description": "node com EJS",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^22.7.0",
+    "nodemon": "^3.1.4"
+  }
+}
